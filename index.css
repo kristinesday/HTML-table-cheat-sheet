@@ -1,7 +1,7 @@
 table {
   border-collapse: collapse; /* This ensures that adjacent table cells share borders */
   width: 100%; /* Optional: Set the table width to 100% to make it responsive */
-  border: 1px solid #000; /* 1px solid black border around the table */
+  border: 2px solid #000; /* 1px solid black border around the table */
 }
 
 /* Style table headers (th) */
@@ -16,7 +16,7 @@ th {
 
 /* Style table data cells (td) */
 td {
-  border: 1px solid #000; /* 1px solid black border for table data cells */
+  border: 1px solid purple; /* 1px solid black border for table data cells */
   padding: 8px; /* Optional: Add padding for spacing inside table data cells */
   text-align: left; /* Optional: Adjust text alignment */
   background-color: lightyellow;
